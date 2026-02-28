@@ -1,7 +1,6 @@
 # Unit Converter - Spring Boot Project
 
-A beginner-friendly Spring Boot application that demonstrates REST API design, service layering, and security basics through a simple **Unit Converter**.  
-This project is part of my backend learning journey, showcasing visible proof of growth and mastery.
+A beginner-friendly Spring Boot application that demonstrates REST API design, service layering, and security basics through a simple **Unit Converter**.  This project is part of my backend learning journey.
 
 ---
 
